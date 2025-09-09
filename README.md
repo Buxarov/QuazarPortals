@@ -45,6 +45,9 @@ Each portal opening can trigger:
 - Fully customizable sounds, particles, and animations.  
 - Unique configurations per portal for a fully immersive experience.  
 
+
+https://github.com/user-attachments/assets/cdfaef31-6706-43ac-bd43-385a59c3ca8a
+
 ---
 
 ## ⚡ Special Commands
