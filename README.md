@@ -71,4 +71,4 @@ https://github.com/user-attachments/assets/cdfaef31-6706-43ac-bd43-385a59c3ca8a
 
 Enhance the way your players interact with your world using **QuazarPortals**! 🚪✨
 
-disclaimer: The model is not my property, all tools were provided by the project manager
+disclaimer: The model is not my property, all tools were provided by the project manager, on your server
